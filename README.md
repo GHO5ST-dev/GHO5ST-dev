@@ -83,7 +83,18 @@ To leverage my knowledge of cybersecurity, threat intelligence, vulnerability an
 ### CTF & Cybersecurity Labs
 - Active participant on TryHackMe and PicoCTF.
 - Solved challenges involving web exploitation, cryptography, reverse engineering, and forensics.
+- 
+ ### Modern Web Application Security Scanner
+Automated web application vulnerability scanner powered by OWASP ZAP with dashboard-based monitoring and detailed reporting.
+Supports CI/CD integration, real-time scanning, and detection of common vulnerabilities like SQL Injection and XSS.
 
+ ### Advanced Network Scanning & Host Enumeration Tool
+Advanced reconnaissance and host enumeration tool built using Nmap and Python for network discovery and service detection.
+Performs port scanning, vulnerability identification, and generates professional security reports with automation support.
+
+ ### Production-Ready Linux SIEM
+Linux-based SIEM solution for centralized log collection, threat detection, and security monitoring.
+Features real-time alerts, dashboard visualization, and scalable architecture for SOC and incident response operations.
 ---
 
 ## Experience
